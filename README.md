@@ -7,5 +7,5 @@ https://github.com/bastula
 
 pip install eqd2-dicompyler-core instead of dicompyler-core
 
-^if that does not work, download dicompyler-core folder into path where python scripts are saved (ex. C:\Users\  yourUser \.spyder-py3) and pip install -e dicompyler-core.
+^if that does not work, download dicompyler-core folder into path where python scripts are saved (ex. C:\Users\  yourUser \    .spyder-py3) and pip install -e dicompyler-core.
 Edit dicompyler-core with changes from eqd2-dicompyler-core
